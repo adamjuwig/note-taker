@@ -42,5 +42,4 @@ Create a note by adding a title and text to body then saving by clicking the sav
   ## Questions
 
   GitHub Profile: https://github.com/adamjuwig<br>
-  Email me: adamjuwig@gmail.com<br>
-  Heroku deployment: https://code-notetaker.herokuapp.com/
+  Email me: adamjuwig@gmail.com<br> 
